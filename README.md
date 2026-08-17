@@ -15,4 +15,4 @@ I'm a New York City–based Cybersecurity Analyst with a background in Informati
 - [Access Controls: Windows Active Directory](https://github.com/chloetarpey/access-controls-windows-active-directory)
 ---
 ## 🔗 Connect With Me
-<a href="https://github.com/chloetarpey" target="_blank"><img src="https://cdn.simpleicons.org/github/000000" width="32" /></a>&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.linkedin.com/in/chloetarpey/" target="_blank"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="32" /></a>
+<a href="https://github.com/chloetarpey" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;<a href="https://www.linkedin.com/in/chloetarpey/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
